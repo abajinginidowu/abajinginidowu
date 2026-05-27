@@ -6,9 +6,15 @@ Using data-driven insights to support smarter business decisions and sustainable
 
 ## Professional Summary
 
-Aspiring Data Analyst with hands-on experience in data cleaning, exploratory data analysis, dashboard development, and business reporting. Skilled at transforming raw datasets into clear, actionable insights using Excel, SQL, Power BI, and Python.
+I am a Data Analyst with hands-on experience in data cleaning, data transformation, exploratory data analysis (EDA), dashboard development, and business reporting. I specialize in working with raw and unstructured datasets, preparing them for analysis, and delivering clear, accurate, and actionable insights that support business decision-making.
 
-Passionate about solving business problems with data, identifying trends, and building interactive dashboards that improve decision-making and operational performance.
+I am proficient in Excel, SQL, Power BI, and Python (Pandas) and have applied these tools across multiple projects involving sales performance analysis, customer behavior and churn analysis, and workforce/HR analytics. My work involves writing efficient queries, building data models, performing in-depth analysis, and designing interactive dashboards that track KPIs and highlight key trends.
+
+I focus strongly on turning data into business value. This includes identifying patterns, uncovering root causes behind performance changes, and presenting findings in a way that is easy for both technical and non-technical stakeholders to understand. I build reports and dashboards that support monitoring, forecasting, and strategic planning.
+
+I am comfortable working through the full data analytics lifecycle—from data extraction and cleaning to visualization and insight delivery—and I pay close attention to accuracy, structure, and business relevance in every analysis I perform.
+
+Currently, I am strengthening my skills in advanced SQL, data modeling, and dashboard optimization, with a focus on building production-ready analytics solutions that improve business performance and decision-making efficiency.
 
 ---
 
@@ -90,20 +96,15 @@ Explored workforce data to identify attrition patterns, employee trends, and fac
 
 ---
 
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abajinginidowu&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abajinginidowu&layout=compact)
 
 ---
 
 ## Connect With Me
 
 - GitHub: https://github.com/abajinginidowu
-- Email: realtech126@gmail.com
-- LinkedIn: Add your LinkedIn profile here
-- Portfolio: Add your portfolio link here
+- Email: abajinginogsa019@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abajinginidowu/
+- Portfolio: https://bit.ly/4dOp2NG
 
 ---
 
