@@ -1,24 +1,32 @@
-# Idowu Abajingin
+# Hi, I'm Idowu Abajingin 
+
+### Data Analyst | Business Intelligence | Data Visualization
 
 Using data-driven insights to support smarter business decisions and sustainable growth.
 
 ---
 
-## Professional Summary
+## About Me
 
-I am a Data Analyst with hands-on experience in data cleaning, data transformation, exploratory data analysis (EDA), dashboard development, and business reporting. I specialize in working with raw and unstructured datasets, preparing them for analysis, and delivering clear, accurate, and actionable insights that support business decision-making.
+I am a Data Analyst with hands-on experience in data cleaning, data transformation, exploratory data analysis (EDA), dashboard development, and business reporting. I specialize in transforming raw and unstructured datasets into meaningful insights that support strategic decision-making and business performance.
 
-I am proficient in Excel, SQL, Power BI, and Python (Pandas) and have applied these tools across multiple projects involving sales performance analysis, customer behavior and churn analysis, and workforce/HR analytics. My work involves writing efficient queries, building data models, performing in-depth analysis, and designing interactive dashboards that track KPIs and highlight key trends.
+Skilled in Excel, SQL, Power BI, and Python (Pandas), I have worked on projects involving sales analysis, customer churn analysis, and workforce analytics. My experience includes building dashboards, tracking KPIs, identifying trends, and presenting insights through clear and interactive visual reports.
 
-I focus strongly on turning data into business value. This includes identifying patterns, uncovering root causes behind performance changes, and presenting findings in a way that is easy for both technical and non-technical stakeholders to understand. I build reports and dashboards that support monitoring, forecasting, and strategic planning.
-
-I am comfortable working through the full data analytics lifecycle—from data extraction and cleaning to visualization and insight delivery—and I pay close attention to accuracy, structure, and business relevance in every analysis I perform.
-
-Currently, I am strengthening my skills in advanced SQL, data modeling, and dashboard optimization, with a focus on building production-ready analytics solutions that improve business performance and decision-making efficiency.
+I am passionate about solving business problems with data and continuously improving my analytical, visualization, and storytelling skills through real-world projects and continuous learning.
 
 ---
 
-## Technical Skills
+##  What I'm Working On
+
+-  Building real-world data analytics projects and dashboards
+-  Learning advanced SQL, Python, and Power BI optimization
+-  Open to collaborating on data analytics and business intelligence projects
+-  Ask me about Excel, SQL, Power BI, dashboards, and data visualization
+-  Reach me at: **abajinginogsa019@gmail.com**
+
+---
+
+##  Technical Skills
 
 ### Analytics & Business Intelligence
 - Data Cleaning & Transformation
@@ -39,72 +47,81 @@ Currently, I am strengthening my skills in advanced SQL, data modeling, and dash
 
 ---
 
-## Featured Projects
+##  Featured Projects
 
 ### Retail Sales Trend Analysis
-Analyzed retail sales data to uncover revenue trends, customer purchasing patterns, and product performance insights.
+Analyzed retail sales data to identify revenue trends, customer purchasing behavior, and product performance insights.
 
-**Tools:** Excel • SQL • Power BI
+**Tools Used:** Excel
 
-#### Project Highlights
-- Cleaned and transformed raw sales datasets for analysis
-- Built interactive dashboards for performance monitoring
-- Identified high-performing products and sales trends
-- Presented actionable business insights through visual reporting
+#### Key Highlights
+- Cleaned and transformed raw sales datasets
+- Built dashboards for sales performance tracking
+- Identified top-performing products and sales trends
+- Delivered visual insights to support decision-making
 
-🔗 Repository: https://github.com/abajinginidowu/retail-sales-trend-analysis
+🔗 Repository:  
+https://github.com/abajinginidowu/retail-sales-trend-analysis
 
 ---
 
 ### Customer Churn Analysis
 Developed an analytical dashboard focused on customer retention, churn behavior, and subscription trends.
 
-**Tools:** SQL • Power BI
+**Tools Used:** Excel
 
-#### Project Highlights
-- Performed customer churn and retention analysis
+#### Key Highlights
+- Performed churn and retention analysis
 - Built KPI-focused dashboards and reports
-- Analyzed customer demographics and service usage patterns
-- Delivered insights to support retention strategies
+- Analyzed customer demographics and usage patterns
+- Generated actionable retention insights
 
-🔗 Repository: https://github.com/abajinginidowu/customer_churn_analysis_telecom
+🔗 Repository:  
+https://github.com/abajinginidowu/customer_churn_analysis_telecom
 
 ---
 
 ### Employee Attrition Analysis
-Explored workforce data to identify attrition patterns, employee trends, and factors affecting retention.
+Explored workforce data to identify employee attrition patterns and retention challenges.
 
-**Tools:** Excel • SQL • Power BI
+**Tools Used:** Excel • SQL
 
-#### Project Highlights
-- Conducted HR and workforce data analysis
-- Identified major drivers of employee attrition
-- Designed dashboards for workforce insights and reporting
+#### Key Highlights
+- Conducted workforce and HR data analysis
+- Identified key drivers of employee attrition
+- Designed dashboards for workforce reporting
 - Supported data-driven HR decision-making
 
-🔗 Repository: https://github.com/abajinginidowu/employee_attrition_analysis
+🔗 Repository:  
+https://github.com/abajinginidowu/employee_attrition_analysis
 
 ---
 
-## Currently Learning
+##  Currently Learning
 
-- Advanced SQL for Analytics
+- Advanced SQL for Data Analytics
 - Python for Data Analysis
 - Data Storytelling & Communication
 - Power BI Dashboard Optimization
-- Version Control & Collaboration with Git
+- Version Control with Git & GitHub
 
 ---
 
 
----
 
-## Connect With Me
+##  Connect With Me
 
-- GitHub: https://github.com/abajinginidowu
-- Email: abajinginogsa019@gmail.com
-- LinkedIn: https://www.linkedin.com/in/abajinginidowu/
-- Portfolio: https://bit.ly/4dOp2NG
+- GitHub:  
+https://github.com/abajinginidowu
+
+- LinkedIn:  
+https://www.linkedin.com/in/abajinginidowu/
+
+- Email:  
+abajinginogsa2019@gmail.com
+
+- Portfolio:  
+  https://bit.ly/4dOp2NG
 
 ---
 
